@@ -21,6 +21,7 @@
 - [Day 18 - Basics of Maths](python/Day-18)
 - [Day 19 - Basics of Maths - 2](python/Day-19)
 - [Day 20 - Problem Solving 1](python/Day-20)
+- [Day 21 - Problem Solving 2](python/Day-21)
 
 
 ## Some Unique Problems (with Tags)
