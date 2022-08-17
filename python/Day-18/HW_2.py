@@ -5,7 +5,7 @@ Created on Mon Aug 15 11:20:35 2022
 @author: arupb [github.com/0xStryK3R]
 """
 
-# Combinatorics Approach for satsfying TLE
+# Combinatorics Approach for resolving TLE in DP approach.
 # Reference: https://towardsdatascience.com/understanding-combinatorics-number-of-paths-on-a-grid-bddf08e28384
 
 
