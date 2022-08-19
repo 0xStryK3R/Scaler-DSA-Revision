@@ -24,8 +24,12 @@
 - [Day 21 - Problem Solving 2](python/Day-21)
 - [Day 22 - Problem Solving 3](python/Day-22)
 - [Day 23 - Problem Solving 4](python/Day-23)
-- [Day 24 - Problem Solving 5](python/Day-24)
 - [Day 25 - Problem Solving 6](python/Day-25)
+- [Day 28 - Basics of Storage](python/Day-28)
+- [Day 29 - 1D and 2D Arrays](python/Day-29)
+- [Day 30 - Arrays & Maths](python/Day-30)
+- [Day 31 - Maths II](python/Day-31)
+
 
 
 
@@ -34,8 +38,7 @@
 
 - [Grid Unique Paths](python/Day-18/HW_2.py) | `Combinatorics`
 - [Sum the Difference](python/Day-22/CW_2.py) | `Approach`
-
-
-## To be revisited
-- [Minimize the absolute difference](python/Day-23/CW_2.py) | `Three Pointer`
-- [Smallest sequence with given Primes](python/Day-23/CW_4.py) | `Three Pointer`
+- [Minimize the absolute difference](python/Day-23/CW_2.py) | `Three Pointer` `TBR`
+- [Smallest sequence with given Primes](python/Day-23/CW_4.py) | `Three Pointer` `TBR`
+- [First Missing Integer](python/Day-30/CW_1.py) | `Array` `TBR`
+- [FGreatest Common Divisor](python/Day-31/CW_1.py) | `GCD`
