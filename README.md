@@ -1,4 +1,4 @@
-## Scaler-DSA-Revision | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Sample-Django-Postgres-Project)
+## Scaler-DSA-Revision | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Scaler-DSA-Revision)
 **_Scaler DSA Problems Revisions (Assignments and HW - Coding Questions Only)_**
 
 > Problems will be distributed under `Day-#` folder (Days as per April'21 Intermediate Batch Curriculum').
