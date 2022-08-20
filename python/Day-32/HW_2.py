@@ -1,5 +1,6 @@
 class Solution:
-    # @param A : list of integers
+    # @param A : integer
+    # @param B : integer
     # @return an integer
     def gcd(self, A, B):
         B, A = sorted([abs(A), abs(B)])
@@ -7,8 +8,7 @@ class Solution:
             return A
         return self.gcd(B, A % B)
 
-    def solve(self, A):
-        ans = 0
-        for num in A:
-            ans = self.gcd(ans, num)
-        return ans
+    def cpFact(self, A, B):
+        while self.gcd(A, B) > 1:
+            A //= self.gcd(A, B)
+        return A

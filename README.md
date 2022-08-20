@@ -29,7 +29,10 @@
 - [Day 29 - 1D and 2D Arrays](python/Day-29)
 - [Day 30 - Arrays & Maths](python/Day-30)
 - [Day 31 - Maths II](python/Day-31)
-
+- [Day 32 - Maths : Prime numbers & Prime Factorization](python/Day-32)
+- [Day 33 - Maths - Modular Arithmetic and Followup](python/Day-33)
+- [Day 34 - Maths - Combinatorics](python/Day-34)
+- [Day 35 - Bit Manipulation](python/Day-35)
 
 
 
@@ -38,7 +41,15 @@
 
 - [Grid Unique Paths](python/Day-18/HW_2.py) | `Combinatorics`
 - [Sum the Difference](python/Day-22/CW_2.py) | `Approach`
-- [Minimize the absolute difference](python/Day-23/CW_2.py) | `Three Pointer` `TBR`
-- [Smallest sequence with given Primes](python/Day-23/CW_4.py) | `Three Pointer` `TBR`
 - [First Missing Integer](python/Day-30/CW_1.py) | `Array` `TBR`
-- [FGreatest Common Divisor](python/Day-31/CW_1.py) | `GCD`
+- [Greatest Common Divisor](python/Day-31/CW_1.py) | `GCD`
+- [Factorial Array](python/Day-32/CW_4.py) | `Prime Factorization`
+- [Sum of divisor of N factorial](python/Day-32/CW_5.py) | `Prime Factorization` `Sieve Algo`
+- [Prime Modulo Inverse](python/Day-33/CW_3.py) | `Mod Inverse`
+- [Prime Modulo Inverse](python/Day-33/CW_5.1.py) | `nCr via Pascal's Triangle`
+- [Divide Integers](python/Day-35/HW_1.py) | `Divison via Bit Operation`
+
+
+## Revisions:
+
+- [Revisions Link](python/TBR.md)
