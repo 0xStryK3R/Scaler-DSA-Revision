@@ -9,3 +9,4 @@
 - [Prime Modulo Inverse](Day-33/CW_5.1.py) | `nCr` through `Pascal's Triangle`
 - [Sorted Permutation Rank with Repeats](Day-34/CW_1.py) | `Combinatorics`
 - [Divide Integers](Day-35/HW_1.py) | `Divison via Bit Operation`
+- [Sorted Insert Position](Day-36/CW_4.py) | `Binary Search`

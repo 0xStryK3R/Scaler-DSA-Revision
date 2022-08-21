@@ -33,6 +33,8 @@
 - [Day 33 - Maths - Modular Arithmetic and Followup](python/Day-33)
 - [Day 34 - Maths - Combinatorics](python/Day-34)
 - [Day 35 - Bit Manipulation](python/Day-35)
+- [Day 36 - Searching I](python/Day-36)
+- [Day 37 - Searching II](python/Day-37)
 
 
 
