@@ -37,8 +37,6 @@
 - [Day 37 - Searching II](python/Day-37)
 
 
-
-
 ## Some Unique Problems
 
 - [Grid Unique Paths](python/Day-18/HW_2.py) | `Combinatorics`
@@ -50,8 +48,9 @@
 - [Prime Modulo Inverse](python/Day-33/CW_3.py) | `Mod Inverse`
 - [Prime Modulo Inverse](python/Day-33/CW_5.1.py) | `nCr via Pascal's Triangle`
 - [Divide Integers](python/Day-35/HW_1.py) | `Divison via Bit Operation`
+- [Aggressive cows](python/Day-37/CW_1.py) | `Painter's Partitioning`
 
 
 ## Revisions:
-
 - [Revisions Link](python/TBR.md)
+
