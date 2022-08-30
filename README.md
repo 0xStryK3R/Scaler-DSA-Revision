@@ -35,6 +35,8 @@
 - [Day 35 - Bit Manipulation](python/Day-35)
 - [Day 36 - Searching I](python/Day-36)
 - [Day 37 - Searching II](python/Day-37)
+- [Day 38 - Recursion & Backtracking](python/Day-38)
+- [Day 39 - Backtracking 2](python/Day-39)
 
 
 ## Some Unique Problems
@@ -49,6 +51,8 @@
 - [Prime Modulo Inverse](python/Day-33/CW_5.1.py) | `nCr via Pascal's Triangle`
 - [Divide Integers](python/Day-35/HW_1.py) | `Divison via Bit Operation`
 - [Aggressive cows](python/Day-37/CW_1.py) | `Painter's Partitioning`
+- [Remove Invalid Parentheses](python/Day-39/HW_1.py) | `Backtracking`
+- [Vertical and Horizontal Sums](Day-39/HW_2.py) | `Backtracking` `Sub-Matrix Sums`
 
 
 ## Revisions:

@@ -14,3 +14,4 @@
 - [Allocate Books](Day-37/CW_3.py) | `Binary Search` `Painter's Partitioning`
 - [Ath Magical Number](Day-37/CW_4.py) | `Binary Search`
 - [Special Integer](Day-37/CW_5.py) | `Binary Search`
+- [Vertical and Horizontal Sums](Day-39/HW_2.py) | `Backtracking` `Sub-Matrix Sums`
