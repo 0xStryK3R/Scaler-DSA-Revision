@@ -1,9 +1,8 @@
-## Questions need to be revised
+# Problems which need to be revised
 
-
-- [Minimize the absolute difference](Day-23/CW_2.py) | `Three Pointer`
-- [Smallest sequence with given Primes](Day-23/CW_4.py) | `Three Pointer`
-- [Delete one](pytn/Day-31/CW_3.py) | `GCD`
+- [Minimize the absolute difference](Day-23/CW_2.py) | `3 Pointers`
+- [Smallest sequence with given Primes](Day-23/CW_4.py) | `3 Pointers`
+- [Delete one](Day-31/CW_3.py) | `GCD`
 - [Count of divisors](Day-31/CW_5.py) | `GCD`
 - [Sum of divisor of N factorial](Day-32/CW_5.py) | `Prime Factorization` `Sieve Algo`
 - [Prime Modulo Inverse](Day-33/CW_5.1.py) | `nCr` through `Pascal's Triangle`
@@ -15,3 +14,16 @@
 - [Ath Magical Number](Day-37/CW_4.py) | `Binary Search`
 - [Special Integer](Day-37/CW_5.py) | `Binary Search`
 - [Vertical and Horizontal Sums](Day-39/HW_2.py) | `Backtracking` `Sub-Matrix Sums`
+- [Closest pair from sorted arrays](Day-40/HW_1.py) | `2 Pointers` `Implementation Heavy`
+- [Max Continuous Series of 1s](Day-40/HW_2.py) | `3 Pointers` `Implementation Heavy`
+- [Array 3 Pointers](Day-40/HW_3.py) | `3 Pointers` `Implementation Heavy`
+- [Count Subarrays](Day-40/HW_4.py) | `2 Pointers` `Implementation Heavy`
+- [Inversion count in an array](Day-41/CW_3.py) | `Merge Sorting` `Inversion Count`
+- [Reverse pairs](Day-41/HW_3.py) | `Merge Sort` `Inversion Count`
+- [Sum the Difference](Day-42/CW_3.py) | `Sorting` `All Subsequences`
+- [Unique Elements](Day-42/HW_4.py) | `Sorting` `Implementation Heavy`
+- [Max Chunks To Make Sorted](Day-42/HW_1.py) | `Sorting`
+- [Longest Substring Without Repeat](Day-43/HW_2.py) | `Hashing` `Unique Substrings`
+- [Window String](Day-43/HW_3.py) | `Hashing` `Implementation Heavy`
+- [Permutations of A in B](Day-43/HW_4.py) | `Hashing` `Implementation Heavy`
+- [Points on same line](Day-44/CW_2.py) | `Hashing` `Geometry` `Implementation Heavy`

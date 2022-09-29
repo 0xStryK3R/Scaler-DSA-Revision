@@ -17,9 +17,12 @@ class Solution:
                     self.ans.append(cur_str)
             return
 
-        self.generate(cur_idx + 1, cur_bal, cur_str)
-
         ch = self.A[cur_idx]
+
+        if ch in ("(", ")"):
+            # Optimisation - Do not skip if not a bracket
+            self.generate(cur_idx + 1, cur_bal, cur_str)
+
         cur_str += ch
         if ch == "(":
             cur_bal += 1

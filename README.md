@@ -1,10 +1,10 @@
-## Scaler-DSA-Revision | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Scaler-DSA-Revision)
+# Scaler-DSA-Revision | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Scaler-DSA-Revision)
+
 **_Scaler DSA Problems Revisions (Assignments and HW - Coding Questions Only)_**
 
 > Problems will be distributed under `Day-#` folder (Days as per April'21 Intermediate Batch Curriculum').
 >
 > Problems will be named either `CW_#` or `HW_#` for Assignments and Homeworks respectively.
-
 
 ## Index
 
@@ -37,7 +37,11 @@
 - [Day 37 - Searching II](python/Day-37)
 - [Day 38 - Recursion & Backtracking](python/Day-38)
 - [Day 39 - Backtracking 2](python/Day-39)
-
+- [Day 40 - Two Pointers](python/Day-40)
+- [Day 41 - Sorting 1](python/Day-41)
+- [Day 42 - Sorting 2](python/Day-42)
+- [Day 43 - Hashing 1](python/Day-43)
+- [Day 44 - Hashing 2](python/Day-44)
 
 ## Some Unique Problems
 
@@ -48,13 +52,17 @@
 - [Factorial Array](python/Day-32/CW_4.py) | `Prime Factorization`
 - [Sum of divisor of N factorial](python/Day-32/CW_5.py) | `Prime Factorization` `Sieve Algo`
 - [Prime Modulo Inverse](python/Day-33/CW_3.py) | `Mod Inverse`
-- [Prime Modulo Inverse](python/Day-33/CW_5.1.py) | `nCr via Pascal's Triangle`
+- [Compute nCr % m](python/Day-33/CW_5.1.py) | `nCr via Pascal's Triangle`
 - [Divide Integers](python/Day-35/HW_1.py) | `Divison via Bit Operation`
 - [Aggressive cows](python/Day-37/CW_1.py) | `Painter's Partitioning`
 - [Remove Invalid Parentheses](python/Day-39/HW_1.py) | `Backtracking`
-- [Vertical and Horizontal Sums](Day-39/HW_2.py) | `Backtracking` `Sub-Matrix Sums`
+- [Vertical and Horizontal Sums](python/Day-39/HW_2.py) | `Backtracking` `Sub-Matrix Sums`
+- [Count Subarrays](python/Day-40/HW_4.py) | `2 Pointers`
+- [Inversion count in an array](python/Day-41/CW_3.py) | `Merge Sort` `Inversion Count`
+- [Reverse pairs](python/Day-41/HW_3.py) | `Merge Sort` `Inversion Count`
+- [Sum the Difference](python/Day-42/CW_3.py) | `Sorting` `All Subsequences`
+- [Compare Sorted Subarrays](python/Day-44/HW_2.py) | `Hashing` with `Strings`
 
+## Revisions
 
-## Revisions:
 - [Revisions Link](python/TBR.md)
-
