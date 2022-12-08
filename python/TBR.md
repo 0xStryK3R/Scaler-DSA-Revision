@@ -27,3 +27,4 @@
 - [Window String](Day-43/HW_3.py) | `Hashing` `Implementation Heavy`
 - [Permutations of A in B](Day-43/HW_4.py) | `Hashing` `Implementation Heavy`
 - [Points on same line](Day-44/CW_2.py) | `Hashing` `Geometry` `Implementation Heavy`
+- [Check two bracket expressions](python/Day-50/HW_4.py) | `Stacks` `Implementation Heavy`

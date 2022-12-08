@@ -42,6 +42,8 @@
 - [Day 42 - Sorting 2](python/Day-42)
 - [Day 43 - Hashing 1](python/Day-43)
 - [Day 44 - Hashing 2](python/Day-44)
+- [Day 45 - String Algorithms](python/Day-45)
+- [Day 50 - Stacks](python/Day-50)
 
 ## Some Unique Problems
 
@@ -62,6 +64,9 @@
 - [Reverse pairs](python/Day-41/HW_3.py) | `Merge Sort` `Inversion Count`
 - [Sum the Difference](python/Day-42/CW_3.py) | `Sorting` `All Subsequences`
 - [Compare Sorted Subarrays](python/Day-44/HW_2.py) | `Hashing` with `Strings`
+- [Boring substring](python/Day-45/CW_3.py) | `Strings`
+- [Make String Palindrome](python/Day-45/HW_3.py) | `Z-Algo`
+- [All Subarrays](python/Day-50/HW_3.py) | `Monotone Stacks`
 
 ## Revisions
 
