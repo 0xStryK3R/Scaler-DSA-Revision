@@ -28,3 +28,9 @@
 - [Permutations of A in B](Day-43/HW_4.py) | `Hashing` `Implementation Heavy`
 - [Points on same line](Day-44/CW_2.py) | `Hashing` `Geometry` `Implementation Heavy`
 - [Check two bracket expressions](python/Day-50/HW_4.py) | `Stacks` `Implementation Heavy`
+- [First non-repeating character](python/Day-52/CW_3.py) | `Queues`
+- [Reverse Link List II](python/Day-53/HW_1.py) | `Reverse LL`
+- [Swap List Nodes in pairs](python/Day-53/HW_1.py) | `LL`
+- [Partition List](python/Day-54/CW_3.py) | `LL`
+- [Sort List](python/Day-54/CW_4.py) | `LL` `Merge-Sort`
+- [Remove Loop from Linked List](python/Day-54/CW_5.py) | `LL` `Loop Break`

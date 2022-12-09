@@ -44,6 +44,10 @@
 - [Day 44 - Hashing 2](python/Day-44)
 - [Day 45 - String Algorithms](python/Day-45)
 - [Day 50 - Stacks](python/Day-50)
+- [Day 51 - Stacks II](python/Day-51)
+- [Day 52 - Queues](python/Day-52)
+- [Day 53 - Linked List](python/Day-53)
+- [Day 54 - Linked List II](python/Day-54)
 
 ## Some Unique Problems
 
@@ -67,6 +71,11 @@
 - [Boring substring](python/Day-45/CW_3.py) | `Strings`
 - [Make String Palindrome](python/Day-45/HW_3.py) | `Z-Algo`
 - [All Subarrays](python/Day-50/HW_3.py) | `Monotone Stacks`
+- [MAX and MIN](python/Day-51/CW_5.py) | `Stacks`
+- [Infix to Postfix](python/Day-51/HW_1.py) | `Stacks`
+- [Maximum Rectangle](python/Day-51/HW_1.py) | `Stacks` `2D` `Histogram`
+- [K reverse linked list](python/Day-53/CW_2.py) | `Reverse LL`
+- [Longest Palindromic List](python/Day-54/CW_2.py) | `LL`
 
 ## Revisions
 
