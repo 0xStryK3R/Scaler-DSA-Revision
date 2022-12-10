@@ -34,3 +34,6 @@
 - [Partition List](python/Day-54/CW_3.py) | `LL`
 - [Sort List](python/Day-54/CW_4.py) | `LL` `Merge-Sort`
 - [Remove Loop from Linked List](python/Day-54/CW_5.py) | `LL` `Loop Break`
+- [Deserialize Binary Tree](python/Day-58/HW_1.py) | `Trees`
+- [Populate Next Right Pointers Tree](python/Day-59/CW_5.py) | `BST`
+- [Common Nodes in Two BST](python/Day-59/HW_1.py) | `BST`

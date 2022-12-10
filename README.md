@@ -48,6 +48,9 @@
 - [Day 52 - Queues](python/Day-52)
 - [Day 53 - Linked List](python/Day-53)
 - [Day 54 - Linked List II](python/Day-54)
+- [Day 57 - Trees](python/Day-57)
+- [Day 58 - Trees 2](python/Day-58)
+- [Day 59 - Binary Search Tree](python/Day-59)
 
 ## Some Unique Problems
 
@@ -76,6 +79,12 @@
 - [Maximum Rectangle](python/Day-51/HW_1.py) | `Stacks` `2D` `Histogram`
 - [K reverse linked list](python/Day-53/CW_2.py) | `Reverse LL`
 - [Longest Palindromic List](python/Day-54/CW_2.py) | `LL`
+- [Binary Tree From Inorder And Preorder](python/Day-57/HW_1.py) | `Trees`
+- [Boundary Traversal Of Binary Tree](python/Day-58/HW_5.py) | `Trees`
+- [Valid Binary Search Tree](python/Day-59/CW_4.py) | `BST`
+- [Equal Tree Partition](python/Day-60/CW_3.py) | `Trees`
+- [Distance between Nodes of BST](python/Day-60/HW_3.py) | `LCA`
+- [Binary tree to Circular Doubly Linked List](python/Day-60/HW_4.py) | `Trees` `iot` `DLL`
 
 ## Revisions
 
