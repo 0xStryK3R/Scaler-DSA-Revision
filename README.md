@@ -51,6 +51,9 @@
 - [Day 57 - Trees](python/Day-57)
 - [Day 58 - Trees 2](python/Day-58)
 - [Day 59 - Binary Search Tree](python/Day-59)
+- [Day 60 - LCA + Problems on Trees](python/Day-60)
+- [Day 61 - More Problems on Trees](python/Day-61)
+- [Day 63 - Tries](python/Day-63)
 
 ## Some Unique Problems
 
@@ -85,6 +88,7 @@
 - [Equal Tree Partition](python/Day-60/CW_3.py) | `Trees`
 - [Distance between Nodes of BST](python/Day-60/HW_3.py) | `LCA`
 - [Binary tree to Circular Doubly Linked List](python/Day-60/HW_4.py) | `Trees` `iot` `DLL`
+- [XOR TRIPLETS](python/Day-63/HW_3.py) | `Trie`
 
 ## Revisions
 

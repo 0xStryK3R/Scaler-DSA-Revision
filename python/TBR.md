@@ -39,3 +39,4 @@
 - [Common Nodes in Two BST](python/Day-59/HW_1.py) | `BST`
 - [Convert an arbitrary Binary Tree to a tree that holds Children Sum Property](python/Day-61/CW_1.py) | `BST`
 - [Recover Binary Search Tree](python/Day-61/CW_3.py) | `BST`
+- [Subarrays Xor Less Than B](python/Day-63/HW_4.py) | `Trie`
