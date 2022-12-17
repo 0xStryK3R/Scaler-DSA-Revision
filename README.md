@@ -54,6 +54,7 @@
 - [Day 60 - LCA + Problems on Trees](python/Day-60)
 - [Day 61 - More Problems on Trees](python/Day-61)
 - [Day 63 - Tries](python/Day-63)
+- [Day 64 - Heaps I](python/Day-64)
 
 ## Some Unique Problems
 
@@ -89,6 +90,8 @@
 - [Distance between Nodes of BST](python/Day-60/HW_3.py) | `LCA`
 - [Binary tree to Circular Doubly Linked List](python/Day-60/HW_4.py) | `Trees` `iot` `DLL`
 - [XOR TRIPLETS](python/Day-63/HW_3.py) | `Trie`
+- [B-th Smallest Prime Fraction](python/Day-64/HW_2.py) | `Heap` `2D` `Divide and Conquer`
+- [Kth Smallest Element in a Sorted Matrix](python/Day-64/HW_3.py) | `Heap` `2D` `Divide and Conquer`
 
 ## Revisions
 
