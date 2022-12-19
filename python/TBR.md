@@ -41,3 +41,6 @@
 - [Recover Binary Search Tree](python/Day-61/CW_3.py) | `BST`
 - [Subarrays Xor Less Than B](python/Day-63/HW_4.py) | `Trie`
 - [Magician and Chocolates](python/Day-64/CW_4.py) | `Heap Implementation`
+- [Seats](python/Day-66/CW_2.py) | `Greedy Algo`
+- [Binary Strings](python/Day-66/HW_1.py) | `Greedy Algo`
+- [Power of 3](python/Day-68/HW_3.py) | `Segment Tree`

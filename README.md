@@ -55,6 +55,9 @@
 - [Day 61 - More Problems on Trees](python/Day-61)
 - [Day 63 - Tries](python/Day-63)
 - [Day 64 - Heaps I](python/Day-64)
+- [Day 65 - Heaps II](python/Day-65)
+- [Day 66 - Greedy Algorithms](python/Day-66)
+- [Day 68 - Segment Trees](python/Day-68)
 
 ## Some Unique Problems
 
@@ -92,6 +95,8 @@
 - [XOR TRIPLETS](python/Day-63/HW_3.py) | `Trie`
 - [B-th Smallest Prime Fraction](python/Day-64/HW_2.py) | `Heap` `2D` `Divide and Conquer`
 - [Kth Smallest Element in a Sorted Matrix](python/Day-64/HW_3.py) | `Heap` `2D` `Divide and Conquer`
+- [Free Cars](python/Day-66/CW_4.py) | `Greedy Algo`
+- [Segment Tree?](python/Day-68/HW_1.py) | `Segment Tree`
 
 ## Revisions
 
