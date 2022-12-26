@@ -44,3 +44,5 @@
 - [Seats](python/Day-66/CW_2.py) | `Greedy Algo`
 - [Binary Strings](python/Day-66/HW_1.py) | `Greedy Algo`
 - [Power of 3](python/Day-68/HW_3.py) | `Segment Tree`
+- [Ways to Decode](python/Day-69/HW_1.py) | `1D DP
+- [Max Product Subarray](python/Day-69/HW_2.py) | `1D DP`

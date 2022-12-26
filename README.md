@@ -58,6 +58,7 @@
 - [Day 65 - Heaps II](python/Day-65)
 - [Day 66 - Greedy Algorithms](python/Day-66)
 - [Day 68 - Segment Trees](python/Day-68)
+- [Day 69 - Intro to Dynamic Programming (1D DP)](python/Day-69)
 
 ## Some Unique Problems
 
@@ -97,6 +98,8 @@
 - [Kth Smallest Element in a Sorted Matrix](python/Day-64/HW_3.py) | `Heap` `2D` `Divide and Conquer`
 - [Free Cars](python/Day-66/CW_4.py) | `Greedy Algo`
 - [Segment Tree?](python/Day-68/HW_1.py) | `Segment Tree`
+- [Longest Balanced Substring](python/Day-69/HW_3.py) | `1D DP` `Valid Parenthesis`
+- [Maximum Sum Value](python/Day-69/HW_4.py) | `1D DP`
 
 ## Revisions
 
