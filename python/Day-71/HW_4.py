@@ -1,0 +1,17 @@
+class Solution:
+    # @param A : string
+    # @return an integer
+    def anytwo(self, A):
+        N = M = len(A)
+
+        dp = [[0] + [False for j in range(M)] for i in range(N + 1)]
+
+        dp[0] = [0] * (M + 1)
+        for i in range(1, N + 1):
+            for j in range(1, M + 1):
+                if A[i - 1] == A[j - 1] and i != j:
+                    dp[i][j] = dp[i - 1][j - 1] + 1
+                else:
+                    dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+
+        return int(dp[N][M] > 1)
