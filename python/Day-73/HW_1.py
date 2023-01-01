@@ -36,7 +36,7 @@ class Solution:
 
         return ans
 
-    def solve(self, A):
+    def maximalRectangle(self, A):
         for r in range(1, len(A)):
             for c in range(len(A[0])):
                 if A[r][c] == 1:

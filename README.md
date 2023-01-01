@@ -85,7 +85,7 @@
 - [All Subarrays](python/Day-50/HW_3.py) | `Monotone Stacks`
 - [MAX and MIN](python/Day-51/CW_5.py) | `Stacks`
 - [Infix to Postfix](python/Day-51/HW_1.py) | `Stacks`
-- [Maximum Rectangle](python/Day-51/HW_1.py) | `Stacks` `2D` `Histogram`
+- [Maximum Rectangle](python/Day-51/HW_3.py) | `Stacks` `2D` `Histogram`
 - [K reverse linked list](python/Day-53/CW_2.py) | `Reverse LL`
 - [Longest Palindromic List](python/Day-54/CW_2.py) | `LL`
 - [Binary Tree From Inorder And Preorder](python/Day-57/HW_1.py) | `Trees`

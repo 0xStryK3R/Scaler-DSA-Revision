@@ -14,4 +14,15 @@
   - [Distinct Subsequences](Day-72/HW_2.py)
 - [Longest Increasing Subsequence](Day-71/CW_4.py) | `2D DP` `Strings`
   - [NlogN Solution](Day-71/CW_5.py)
+  - [Length of Longest Fibonacci Subsequence](Day-73/HW_4.py)
 - [Coin Sum Infinite](Day-72/CW_1.py) | `2D DP` `Combination`
+  - [N digit numbers](Day-73/CW_1.py)
+- [Longest Palindromic Substring - II](Day-73/CW_2.py) | `2D DP` `Sequence`
+- [0-1 Knapsack](Day-74/CW_1.py) | `2D DP` `Knapsack`
+  - [Flip Array](Day-74/CW_2.py)
+  - [Unbounded Knapsack](Day-74/CW_3.py)
+  - [0-1 Knapsack II](Day-74/CW_4.py) | `Special Constraints`
+  - [Buying Candies](Day-74/HW_1.py)
+  - [Tushar's Birthday Party](Day-74/HW_1.py)
+- [Matrix Chain Multiplication](Day-74/CW_5.py) | `2D DP` `Catalan Numbers`
+- [Unique Binary Search Trees II](Day-74/CW_6.py) | `2D DP` `Catalan Numbers`
