@@ -60,6 +60,11 @@
 - [Day 68 - Segment Trees](python/Day-68)
 - [Day 69 - Intro to Dynamic Programming (1D DP)](python/Day-69)
 - [Day 71 - Dynamic Programming II](python/Day-71)
+- [Day 72 - Dynamic Programming III](python/Day-72)
+- [Day 73 - Dynamic Programming IV](python/Day-73)
+- [Day 74 - Dynamic Programming V](python/Day-74)
+- [Day 76 - Dynamic Programming VI](python/Day-76)
+- [Day 77 - Graphs I](python/Day-77)
 
 ## Some Unique Problems
 
@@ -100,7 +105,8 @@
 - [Free Cars](python/Day-66/CW_4.py) | `Greedy Algo`
 - [Segment Tree?](python/Day-68/HW_1.py) | `Segment Tree`
 
-## Revisions
+## Misc
 
 - [Revisions Link](python/TBR.md)
 - [Special DP Problems](python/Special-DP-Problems.md)
+- [Special Graph Problems](python/Special-Graph-Problems.md)
