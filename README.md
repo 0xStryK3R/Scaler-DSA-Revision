@@ -65,6 +65,7 @@
 - [Day 74 - Dynamic Programming V](python/Day-74)
 - [Day 76 - Dynamic Programming VI](python/Day-76)
 - [Day 77 - Graphs I](python/Day-77)
+- [Day 79 - Graphs II](python/Day-79)
 
 ## Some Unique Problems
 
